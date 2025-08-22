@@ -25,7 +25,7 @@ A fun, browser-based Rock-Paper-Scissors game built with HTML, CSS, and JavaScri
 
 ## 📦 Deployment
 
-Live demo hosted on [GitHub Pages](https://your-username.github.io/rps-game/)  
+Live demo hosted on [GitHub Pages](https://isratazmeen.github.io/rps-game/)  
 To run locally:
 ```bash
 git clone https://github.com/your-username/rps-game.git
